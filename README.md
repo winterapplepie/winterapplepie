@@ -1,5 +1,10 @@
-### Hi there 👋
+## Welcome!
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwinterapplepie)](https://hits.seeyoufarm.com)
+
+
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwinterapplepie1)
 <!--
 **winterapplepie/winterapplepie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
