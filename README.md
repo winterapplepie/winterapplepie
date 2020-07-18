@@ -2,7 +2,7 @@
 오늘의 방문자는>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwinterapplepie)](https://hits.seeyoufarm.com)
 ## 누구시죠?
 안녕하세요. **winterapplepie**라는 아이디를 사용하고 있는 개발자 **류미리**라고 합니다.  
-저는 트위터에선 **'병아리개발자'**라는 이름으로 활동하고 있습니다.  
+저는 트위터에선 **병아리개발자**라는 이름으로 활동하고 있습니다.  
 현재 일본 도쿄에 살고 있으며, 9월 즈음에 한국으로 돌아갈 예정입니다.  
 2017년 9월에 일본 모 SI회사에 내정받아 2017년 11월에 일본 도쿄 생활을 시작하였고  
 2017년 12월~ 2018년 10월까지 여러 현장에서 근무하였습니다.  
