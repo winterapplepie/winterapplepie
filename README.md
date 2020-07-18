@@ -1,8 +1,8 @@
 # Welcome!
 오늘의 방문자는>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwinterapplepie)](https://hits.seeyoufarm.com)
 ## 누구시죠?
-안녕하세요. winterapplepie라는 아이디를 사용하고 있는 개발자 류미리라고 합니다.  
-저는 트위터에선 '병아리개발자'라는 이름으로 활동하고 있습니다.  
+안녕하세요. **winterapplepie**라는 아이디를 사용하고 있는 개발자 **류미리**라고 합니다.  
+저는 트위터에선 **'병아리개발자'**라는 이름으로 활동하고 있습니다.  
 현재 일본 도쿄에 살고 있으며, 9월 즈음에 한국으로 돌아갈 예정입니다.  
 2017년 9월에 일본 모 SI회사에 내정받아 2017년 11월에 일본 도쿄 생활을 시작하였고  
 2017년 12월~ 2018년 10월까지 여러 현장에서 근무하였습니다.  
@@ -29,6 +29,14 @@ EC 패키지 제품 및 사이트 유지보수, 버그수정, 개발 일을 하�
 (대학교는 통학, 과거 시간제 근무 당시 직장도 집근처 걸어서 15분 거리)  
 나머지 10%는 뭐 위에 힌트를 보시면 아시겠지만 나름 전공도 살리자는 생각을 했거든요. 
 그래서 일본에 가게 되었었습니다.  
+
+## 할 줄 아는 건 뭐가 있죠?
+- 할 줄 아는 것 : Java, JSP, Spring 프레임워크, HTML5, CSS3, Oracle sql
+- 살짝 할 줄 아는 것(발 살짝 담근 정도?) : C#, ASP.NET , SQL Server
+
+## 취미는 뭔가요?
+드라마 감상 및 독서입니다. 요즘은 RPG Maker(흔히 말하는 알만툴, 쯔꾸르) 로 맵같은거 만드는데 본격적으로 하다보면 이것도 취미가 되겠네요.
+
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwinterapplepie1)
 <!--
 **winterapplepie/winterapplepie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
