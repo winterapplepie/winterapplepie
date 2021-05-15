@@ -39,7 +39,9 @@ EC 패키지 제품 및 사이트 유지보수, 버그수정, 개발 일을 하�
 ## ❤취미는 뭔가요?
 드라마 감상 및 독서입니다.
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwinterapplepie1)
+## SNS 및 블로그
+- 블로그 : https://winterapplepie.tistory.com/
+- 트위터로 이동하기 : ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwinterapplepie1)
 <!--
 **winterapplepie/winterapplepie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
